@@ -7,8 +7,8 @@
             hm.put(102,"Ravi");
             hm.put(101,"Vijay");
             hm.put(103,"Technolamror");
-            for(Map.Entry m:hm.entrySet()){
-                System.out.println(m.getKey()+" "+m.getValue());
+            for(Map.Entry m:hm.entrySet()) {
+                System.out.println(m.getKey() + " " + m.getValue());
             }
         }
     }
