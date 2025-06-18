@@ -10,7 +10,6 @@ import re
 
 
 
-
 def Search():
     
     if E1.get() != "":
